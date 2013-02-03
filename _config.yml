@@ -12,9 +12,9 @@ pygments: true
 title : <img src="/assets/sg.png"/>
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
+  name : SocialGeeks
+  email : socialgeeks@gmail.com
+  github : socialgeeks
   twitter : username
   feedburner : feedname
 
