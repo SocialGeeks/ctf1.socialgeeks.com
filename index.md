@@ -1,7 +1,7 @@
 ---
 layout: page
-title: SocialGeeks
-tagline: File:///
+title: The Happenings
+tagline: File:/// like if you are on OS X
 ---
 {% include JB/setup %}
 
