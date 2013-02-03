@@ -11,12 +11,12 @@ pygments: true
 #
 title : <img src="/assets/sg.png"/>
 tagline: File:///
-author : SocialGeeks
-name : SocialGeeks
-email : socialgeeks@gmail.com
-github : socialgeeks
-twitter : username
-feedburner : feedname
+author : 
+  name : SocialGeeks
+  email : socialgeeks@gmail.com
+  github : socialgeeks
+  twitter : username
+  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
