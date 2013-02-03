@@ -14,6 +14,6 @@ gem install jekyll jekyll-s3
 ###Jekyll Bootstrap
 <http://jekyllbootstrap.com>
 
-###Jekyll rake boilerplate:
-<http://ellengummesson.com/blog/2012/1226/jekyll-rake-boilerplate/>
+###Jekyll rake boilerplate
+<http://ellengummesson.com/blog/2012/12/26/jekyll-rake-boilerplate/>
 
