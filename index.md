@@ -5,6 +5,8 @@ tagline: File:/// like if you are on OS X
 ---
 {% include JB/setup %}
 
+## [SocialGeeks@CSI](http://facebook.com/socialgeeks)
+
 ## Like trying new things?
     
     ssh ctf@54.235.161.29

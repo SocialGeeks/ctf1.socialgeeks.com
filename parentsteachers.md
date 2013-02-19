@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "FAQ"
-description: ""
+layout: page 
+title: "For Educators/Parents"
+description: "Questions for Educators & Parents" 
+group: navigation
 category: CTF 
 tags: [faq,ctf]
 ---
