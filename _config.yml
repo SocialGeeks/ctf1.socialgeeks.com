@@ -11,12 +11,12 @@ pygments: true
 #
 title : <img src="/assets/sg.png"/>
 tagline: File:///
-author : 
-  name : SocialGeeks
-  email : socialgeeks@gmail.com
-  github : socialgeeks
-  twitter : username
-  feedburner : feedname
+author : SocialGeeks
+name : SocialGeeks CTF
+email : socialgeeks@gmail.com
+github : socialgeeks
+# twitter : socialgeeks
+# feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -79,7 +79,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
     disqus :
       short_name : jekyllbootstrap
     livefyre :
