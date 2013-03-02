@@ -10,15 +10,13 @@ tags: [faq,ctf]
 Frequently Asked Questions for Participants
 ===========================================
 
-# tl;dr
+Hacking challenge, May 4, 2013 TFHS
 
-Hacking challenge, May 4, TFHS, enter by hacking us, ssh ctf@54.235.161.29, 04may13.
+## What is this thing?
 
-### What is this thing?
+A [capture-the-flag](http://en.wikipedia.org/wiki/Capture_the_flag) style hacking contest, in the same vein as [CSAW CTF](https://csawctf.poly.edu/), [Stripe CTF](https://stripe-ctf.com/) and many others. Receive challenges, complete challenges, score points and learn new things.
 
-A capture-the-flag style hacking contest, in the same vein as CSAW CTF, Stripe CTF, or . Receive challenges, complete challenges, score points.
-
-### When and where?
+## When and where?
 
 May 4 at the Twin Falls High School.
 There are several things yet to be decided, but it will occur in a computer lab, will begin in the morning and end some point in the evening. 
@@ -30,7 +28,7 @@ Once we get a little closer to the event we'll have a more conventional signup f
 	ssh ctf@54.235.161.29
 	04may13
 
-### What sort of topics will the challenges cover?
+## What sort of topics will the challenges cover?
 
 A little bit of everything. We'll elaborate on this closer to the event, but there will likely be a number of Web-related topics, such as Javascript-related and PHP/dynamic site-related exploits, and cross-site scripting. Other topics you may want to look into are SQL injection, making yourself familiar with Wireshark and other network analysis tools, and maybe even a little bit of simple crypto. 
 
@@ -46,11 +44,11 @@ We'll be on hand to help you learn how to beat our challenges, and we'd strongly
 
 Certainly. If you want, show up, break all of our challenges, call us noobs and go home. If you're that talented, we'd recommend showing up, breaking all our challenges and then helping other participants learn to break our challenges. Or even better yet, get in contact with us now and help us make challenges, and make the event better!
 
-### What do I need to bring?
+## What do I need to bring?
 
 Everything is optional. We'll have lab systems you can use, and if you want to bring your own laptop, we'll have a place to set that up too.
 
-### How about teams or individuals working together?
+## How about teams or individuals working together?
 
 This event will likely be individuals working independently, and we won't have any formal teams. That said, we'd still like to encourage participation between individuals.
 

@@ -8,7 +8,7 @@ tags: [faq,ctf]
 ---
 {% include JB/setup %}
 
-### What is this event all about?
+## What is this event all about?
  
 This is an information security challenge. In the industry it would be called a hacking challenge.
  
@@ -26,11 +26,11 @@ These challenges may involve tasks like:
 * locating hidden or obscured information
 * understanding and using modern cryptographic and/or steganographic techniques
 
-### Where will this happen?
+## Where will this happen?
  
 Online, but also in conjunction with the Twin Falls High School. We will have a classroom of computers available for use.
  
-### Who can participate?
+## Who can participate?
  
 Our primary audience is students, however, anyone from the community is welcome to participate
  
