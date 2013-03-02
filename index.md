@@ -5,7 +5,7 @@ tagline: Embrace your critical thinking skills...
 ---
 {% include JB/setup %}
 
-<div style="width:475px;float:left;"><img alt="SocialGeeks CTF" src="/assets/SG_CTF_flag2.png" title="SocialGeeks CTF" /></div>
+<div style="width:475px;float:left;"><img alt="SocialGeeks CTF" src="/assets/SG_CTF_flag1.png" title="SocialGeeks CTF" /></div>
 
 <div style="margin-top:10px;">
 <h2>Like trying new things?</h2>
