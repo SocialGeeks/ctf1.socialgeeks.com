@@ -9,6 +9,9 @@ html, body, p {
   font-size: 15px;
 }
 
+a{color:#012975;text-decoration:none;}
+a:hover{color:#426ec1;text-decoration:underline;}
+
 .navbar {
   margin-bottom: 0;
   background-image: url(/assets/themes/twitter/images/back3.png);
@@ -76,18 +79,16 @@ footer a:hover {
 h1 {
   font-family: 'Fjalla One', serif;
   color: #888;
-  font-weight: bold;  
+  font-weight: bold;
   font-size: 40px;
   background-color: transparent;
   border: none;
-  padding-bottom: 15px;
 }
 
 h2 {
   font-family: 'Medula One', serif;
-  font-weight: bold;  
   font-size: 35px;
-  color: #900;
+  color: #7d0101;
   background-color: transparent;
   padding: 15px 0 12px 0;
 }
