@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Frequently Asked Questions for Participants"
+title: "Participants"
 description: "Information for participants"
 group: navigation
 tags: [faq,ctf]
