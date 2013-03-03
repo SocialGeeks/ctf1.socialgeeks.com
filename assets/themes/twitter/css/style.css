@@ -1,35 +1,106 @@
 /* Override some defaults */
 html, body {
-  background-color: #eee;
+  background-image: url(/assets/themes/twitter/images/back1.png);
+  background-repeat: repeat;
 }
+
+html, body, p {
+  font-family: 'Droid Serif', serif;
+  font-size: 15px;
+}
+
 .navbar {
   margin-bottom: 0;
+  background-color: #003;
+  background-image: url(/assets/themes/twitter/images/back3.png);
+  background-repeat: repeat;
+} 
+
+.navbar .nav>li>a{float:none;padding:10px 10px 11px;line-height:19px;color:#555;text-decoration:none;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);}
+.navbar .nav>li>a:hover{background-color:transparent;color:#ffffff;text-decoration:none;}
+
+.navbar-inner {
+	height: 100px;	
 }
+
+.topnav {
+	background-color: transparent; 
+	height: 40px;
+	width: 980px;
+	text-align: center;
+	margin: auto;
+}
+
+ul.nav {
+	width: 980px;
+	margin: auto;
+}
+
+.container-wrap {
+	width: 100%;
+    background-image: url(/assets/themes/twitter/images/back2.png);
+    background-repeat: repeat;
+}
+
+
 .container > footer {
   margin-top: 20px;
+  color: #ccc;
+  
 }
 .container > footer p {
   text-align: center; /* center align it with the container */
+  font-size: 12px;
 }
+
+footer a {
+	color: #ddd;
+	text-decoration: underline;
+}
+
+footer a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+	
 
 /* The white background content wrapper */
 .content {
-  background-color: #fff;
+  background-color: transparent;
   padding: 20px;
   margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
-  -webkit-border-radius: 0 0 6px 6px;
-     -moz-border-radius: 0 0 6px 6px;
-          border-radius: 0 0 6px 6px;
-  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
-     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
-          box-shadow: 0 1px 2px rgba(0,0,0,.15);
 }
+
+/* Headings */
+
+
+h1 {
+  font-family: 'Fjalla One', serif;
+  color: #888;
+  font-weight: bold;  
+  font-size: 40px;
+  background-color: transparent;
+  border: none;
+  padding-bottom: 15px;
+}
+
+h2 {
+  font-family: 'Medula One', serif;
+  font-weight: bold;  
+  font-size: 35px;
+  color: #900;
+  background-color: transparent;
+  padding: 15px 0 12px 0;
+}
+
+
 
 /* Page header tweaks */
 .page-header {
-  background-color: #f5f5f5;
+  background-color: transparent;
   padding: 20px 20px 10px;
-  margin: -20px -20px 20px;
+  margin: 0 -20px 20px;  
+  border: none;
 }
 
 .topbar .btn {

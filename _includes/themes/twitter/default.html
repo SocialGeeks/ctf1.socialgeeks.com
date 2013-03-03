@@ -14,6 +14,9 @@
     <!-- Le styles -->
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Fjalla One">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Medula One">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid Serif">
 
     <!-- Le fav and touch icons -->
   <!-- Update these with your own images
@@ -28,41 +31,44 @@
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container">
-          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+          <a class="brand" href="{{ HOME_PATH }}"><img src="{{ ASSET_PATH }}/images/sgctf.png" /></a>
+        </div>
+      </div>      
+      <div class="topnav">
           <ul class="nav">
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
           </ul>
-        </div>
       </div>
     </div>
 
+    <div class="container-wrap">
     <div class="container">
 
       <div class="content">
         {{ content }}
 
         <p>&nbsp;</p>
-        <pre class='text-info' style='border: solid 2px grey; background-color: #g3g3g3'>SGCTF is being developed by the <del>warped</del> curious minds at SocialGeeks with collaboration and help from the <a href="http://www.tfhsbruins.com/">Twin Falls High School</a> and <a href="https://plus.google.com/112660287653273028459/about">GDG Southern Idaho</a>. If you are interested in helping out or collaborating with us on this or future events, please contact us. freenode.com  #socialgeeks</pre>
+        <pre class='text-info' style='border: solid 2px grey; background-color: #g3g3g3'>SGCTF is being developed by the <del>warped</del> <a href="about.html">curious minds at SocialGeeks</a> with collaboration and help from the <a href="http://www.tfhsbruins.com/">Twin Falls High School</a> and <a href="https://plus.google.com/112660287653273028459/about">GDG Southern Idaho</a>.</pre>
 
-        <div style="padding:5px;">
-          <hr noshade="noshade" width="97%" />
-        <div style="width:75px;float:left;"><a href="http://facebook.com/SocialGeeks" target="_blank"><img src="/assets/f_logo.jpg" alt="SocialGeeks on Facebook" width="55" height="55" border="0" valign="top" /></a></div>
-        <!-- <div style="width:350px;float:left;font-size:115%;">** Join us on irc.freenode.com #socialgeeks **</div> -->
-        <div><a href="https://plus.google.com/u/0/communities/106505106683254618351" target="_blank"><img src="/assets/g+.png" valign="top" alt="SocialGeeks on Google Plus" title="SocialGeeks on Google Plus" /></a></div>
       </div>
-      </div>
-      <footer>
-<div style="width:100px;float:left;"><a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0;padding:5px;" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a></div>
-<div style="margin-bottom:10px;float:left;width:300px;"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Information</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://socialgeeks.com" property="cc:attributionName" rel="cc:attributionURL">hackers</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>.</div>
-        <p style="padding-top:9px;">&copy; {{ site.author.name }} {{ site.time | date: '%Y' }}
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
-      </footer>
 
     </div> <!-- /container -->
+    </div>
+    
+      <footer style="margin: auto; height: 150px; width: 980px;font-size: 12px;">
+<div style="padding-top: 50px; width: 980px; margin: auto; margin-left: 60px;">
+<div style="width:100px;float:left;"><a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0;padding:5px;" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a></div>
+<div style="margin-bottom:10px;float:left;width:340px; color: #aaa;"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Information</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://socialgeeks.com" property="cc:attributionName" rel="cc:attributionURL">SocialGeeks</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>.</div>
+        <p style="color: #aaa; font-size: 12px;">&copy; {{ site.author.name }} {{ site.time | date: '%Y' }}
+          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+</div>
+      </footer>
 
     {% include JB/analytics %}
+  
+  
   </body>
 </html>
