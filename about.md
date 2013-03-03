@@ -4,18 +4,22 @@ title: "About"
 description: ""
 ---
 {% include JB/setup %}
+	 If you are interested in helping out or collaborating with us on this or future events, please contact us.  
 
-	Socialmedia, if you must.
-	
+<h2>IRC</h2>
+irc.freenode.com  #socialgeeks  
+
+<h2>Social Media</h2>
 <div style="padding:5px;">
-	  <hr noshade="noshade" width="97%" />
 	<div style="width:75px;float:left;"><a href="http://facebook.com/SocialGeeks" target="_blank"><img src="/assets/themes/twitter/images/f_logo.jpg" alt="SocialGeeks on Facebook" width="55" height="55" border="0" valign="top" /></a></div>
 	<!-- <div style="width:350px;float:left;font-size:115%;">** Join us on irc.freenode.com #socialgeeks **</div> -->
 	<div><a href="https://plus.google.com/u/0/communities/106505106683254618351" target="_blank"><img src="/assets/themes/twitter/images/g+.png" valign="top" alt="SocialGeeks on Google Plus" title="SocialGeeks on Google Plus" /></a></div>
   </div>
  <p>&nbsp;</p>
-<p>Email at  socialgeek gmail com</p>
+<h2>Email</h2>
+Email at  socialgeek gmail com  
  <p>&nbsp;</p>
+ 
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: SKS 1.1.0
