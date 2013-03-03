@@ -20,10 +20,7 @@ There are several things yet to be decided, but it will occur in a computer lab,
 
 ### How do I sign up?
 
-Once we get a little closer to the event we'll have a more conventional signup form. But right now, you have to hack us to get signed up. Give it a try.
-
-	ssh ctf@54.235.161.29
-	04may13
+Talk with Mr. T at the highschool.  We'll distribute information through him.  You can also [contact us](about.html).
 
 ## What sort of topics will the challenges cover?
 
