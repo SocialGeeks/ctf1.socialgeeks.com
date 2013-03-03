@@ -1,16 +1,13 @@
 ---
 layout: page
-title: "For Participants"
+title: "Frequently Asked Questions for Participants"
 description: "Information for participants"
 group: navigation
 tags: [faq,ctf]
 ---
 {% include JB/setup %}
 
-Frequently Asked Questions for Participants
-===========================================
-
-Hacking challenge, May 4, 2013 TFHS
+	Hacking challenge, May 4, 2013 TFHS
 
 ## What is this thing?
 

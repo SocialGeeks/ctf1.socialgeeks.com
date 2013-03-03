@@ -1,12 +1,14 @@
 ---
 layout: page 
-title: "For Educators/Parents"
+title: "Educators/Parents"
 description: "Questions for Educators & Parents" 
 group: navigation
 category: CTF 
 tags: [faq,ctf]
 ---
 {% include JB/setup %}
+
+	What, Why, Why and Where?
 
 ## What is this event all about?
  
