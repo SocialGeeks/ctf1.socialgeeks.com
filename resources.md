@@ -9,7 +9,7 @@ description: "CTF/Learning Resources"
 	"Proof that complicated stuff does not have to be so [darn] complicated." - en0
 
 ## Capture the Flag?
-* [Wikipedia - Capture the flag](http://en.wikipedia.org/wiki/Capture_the_flag)  
+* [Wikipedia - Capture the flag](http://en.wikipedia.org/wiki/Capture_the_flag#Computer_security)
 * [Capture-The-Flag: Learning Computer Security Under Fire (Naval Postgraduate School)](http://cisr.nps.edu/events/downloads/WECS6/wecs6_ch04.pdf)  
 
 ## Getting Started
