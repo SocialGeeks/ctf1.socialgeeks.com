@@ -12,6 +12,10 @@ html, body, p {
 a{color:#012975;text-decoration:none;}
 a:hover{color:#426ec1;text-decoration:underline;}
 
+.active>a, .navbar .nav .active>a:hover {
+	background-color: #666;
+}
+
 .navbar {
   margin-bottom: 0;
   background-image: url(/assets/themes/twitter/images/back3.png);
