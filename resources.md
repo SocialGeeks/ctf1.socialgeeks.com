@@ -6,7 +6,7 @@ description: "CTF/Learning Resources"
 ---
 {% include JB/setup %}
 
-	"Proof that complicated stuff does not have to be so damn complicated." - en0
+	"Proof that complicated stuff does not have to be so [darn] complicated." - en0
 
 ## Capture the Flag?
 * [Wikipedia - Capture the flag](http://en.wikipedia.org/wiki/Capture_the_flag)  

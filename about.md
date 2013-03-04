@@ -4,7 +4,7 @@ title: "About"
 description: ""
 ---
 {% include JB/setup %}
-	 If you are interested in helping out or collaborating with us on this or future events, please contact us.  
+	 If you are interested in helping out or collaborating with us on this or future events contact us.  
 
 <h2>IRC</h2>
 irc.freenode.com  #socialgeeks  
