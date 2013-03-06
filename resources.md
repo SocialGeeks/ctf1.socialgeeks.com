@@ -6,7 +6,8 @@ description: "CTF/Learning Resources"
 ---
 {% include JB/setup %}
 
-	"Proof that complicated stuff does not have to be so [darn] complicated." - en0
+	Like many other forms of art, hacking was often misunderstood. - Jon Erickson
+Jon Erickson - [Hacking the Art of Exploitation](http://nostarch.com/hacking2.htm)
 
 ## Capture the Flag?
 * [Wikipedia - Capture the flag](http://en.wikipedia.org/wiki/Capture_the_flag#Computer_security)
