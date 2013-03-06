@@ -8,7 +8,7 @@ tags: [faq,ctf]
 ---
 {% include JB/setup %}
 
-	Proactive vulnerability analysis on existing systems is lacking from the modern computer security curriculum. Students do not learn how to locate and fix design, configuration, and application flaws in existing systems.  Exercises such as Capture-the-Flag (CTF) teach these skills. As such, CTF fills a critical void in Information Security education. - Chris Eagle, and John L. Clark
+	Proactive vulnerability analysis on existing systems is lacking from the modern computer security curriculum. Students do not learn how to locate and fix design, configuration, and application flaws in existing systems.  Exercises such as Capture-the-Flag (CTF) teach these skills. As such, CTF fills a critical void in Information Security education. 
    
 Chris Eagle, and John L. Clark - [Capture-the-Flag: Learning Computer Security Under Fire](http://cisr.nps.edu/events/downloads/WECS6/wecs6_ch04.pdf)
 

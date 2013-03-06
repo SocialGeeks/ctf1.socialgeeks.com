@@ -6,7 +6,8 @@ description: "CTF/Learning Resources"
 ---
 {% include JB/setup %}
 
-	Like many other forms of art, hacking was often misunderstood. - Jon Erickson
+	Like many other forms of art, hacking was often misunderstood.
+
 Jon Erickson - [Hacking the Art of Exploitation](http://nostarch.com/hacking2.htm)
 
 ## Capture the Flag?
