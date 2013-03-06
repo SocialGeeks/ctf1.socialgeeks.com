@@ -6,7 +6,8 @@ description: "Skills necessary for SGCTF"
 ---
 {% include JB/setup %}
 
-	eb fe forever
+	More people are killed every year by pigs than by sharks, which shows you how good we are at evaluating risk. - Bruce Schneier
+-- Bruce Schneier - [Beyond Fear](http://www.schneier.com/book-beyondfear.html)  
 
 ## IRC 
 Skills necessary to work with and communicate effectively with IRC.  Yes, you may have to communicate with others.
