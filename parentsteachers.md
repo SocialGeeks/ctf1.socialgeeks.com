@@ -44,7 +44,7 @@ Our primary audience is students, however, anyone from the community is welcome 
  
 From a more specific, computer security point of view, hackers are those individuals who both create and test secure computer systems. Testing secure systems, basically, involves breaking into secure systems. Understanding why some security techniques work and some do not involves understanding the nature of previous failures. There’s no better way to learn this than by doing.
  
-Noted programmer and venture capitalist Paul Graham defines ‘hacker’ [(1)](http://www.paulgraham.com/gba.html), as understood by other hackers, to be someone who can make a computer do whatever they want, even if it wasn’t intended to do the thing they’re trying to do. From this point of view, hackers are inventors. This would make sense, since Mr. Graham’s entire career has been based around inventing and inspiring others to invent.
+Noted programmer and venture capitalist [Paul Graham defines ‘hacker’](http://www.paulgraham.com/gba.html), as understood by other hackers, to be someone who can make a computer do whatever they want, even if it wasn’t intended to do the thing they’re trying to do. From this point of view, hackers are inventors. This would make sense, since Mr. Graham’s entire career has been based around inventing and inspiring others to invent.
  
 Of course it’s also a really good way to get a well-paying job, for a good company, at nearly anywhere on earth, doing interesting and rewarding work. There are millions of information security jobs around the globe, including a few here in tiny little Twin Falls, Idaho.
  
