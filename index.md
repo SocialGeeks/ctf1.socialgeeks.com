@@ -10,7 +10,9 @@ tagline: Embrace your critical thinking skills...
 <div style="margin-top:10px;">
 <h2>Like trying new things?</h2>
 <h3>May 4, 2013 - Twin Falls High School</h3>
-<p class='muted'><br />While this CTF is aimed at the students of the Twin Falls High School we are looking for mentors and community members with an interest in computer security to help in the planning and execution of this event.  If you want to help us <a href="about.html">contact us</a></p>
+<p class='muted'><br />Registration is open to high school students in the Magic Valley.  The event will be at TFHS (the old highschool) in Twin Falls, ID.  Feel free to <a href="about.html">contact us</a> if you are interested in collaborating on future events.</p>
+
+<a href="https://www.eventbrite.com/event/6326166735?ref=ebtnebregn"><img src="https://www.eventbrite.com/custombutton?eid=6326166735" alt="Eventbrite - Capture the Flag Hacking Contest, SocialGeeks GDG Southern Idaho" /></a>
 
 <h2>More Reading</h2>
 <ul class="unstyled">
