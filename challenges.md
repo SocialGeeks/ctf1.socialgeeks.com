@@ -35,13 +35,13 @@ author: "en0"
       <td>
 	<h2>SG Challenges</h2>
 	<ul>
-	  <li><a target="_blank" href="#">Rasphp</a></li>
+	  <li><a target="_blank" href="http://192.168.3.152">Rasphp</a></li>
 	  <li>
 	    <a title="This challenge is served by openssh.
-Password: h@x0r" href="javascript:void(0);">ssh hacker@DANFIXTHIS.local # h@x0r</a>
+Password: h@x0r" href="javascript:void(0);">ssh hacker@192.168.3.130 # h@x0r</a>
 	  </li>
-	  <li><a target="_blank" href="#">Anti-Human 1.0</a></li>
-	  <li><a target="_blank" href="#">Anti-Human 2.0</a></li>
+	  <li><a target="_blank" href="http://192.168.3.152:3000">Anti-Human 1.0</a></li>
+	  <li><a target="_blank" href="http://192.168.3.152:3001">Anti-Human 2.0</a></li>
 	</ul>
       </td>
     </tr>
