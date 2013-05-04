@@ -9,7 +9,7 @@ description: ""
 ## Speakers
 * 9-9:50 - Various professionsal from the community talk about how security applies to their job
 
-## Training
+## Training (bootcamp style)
 * 10-10:15 - Orientation
 * 10:15-10:35 - IRC basics
 * 10:35-11:30 - HTTP/Web
@@ -24,8 +24,8 @@ description: ""
 ## Let's get it on!
 * 13:30-22:30 - CTF starts
 
-## More training
-* 15:30-16:30 - CLI and SQL basics  
+## More training (take a break)
+* 15:30-16:30 - [CLI](http://cli.learncodethehardway.org/book/) and SQL basics  
 &nbsp;  
   
 # Evening  
