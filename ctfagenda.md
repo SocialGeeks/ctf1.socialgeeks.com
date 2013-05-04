@@ -7,7 +7,7 @@ description: ""
 
 # Morning
 ## Speakers
-* 9-9:50 - Various professionsal from the community talk about how security applies to their job
+* 9-9:50 - Professionals from the community talk about how security applies to their job
 
 ## Training (bootcamp style)
 * 10-10:15 - Orientation
