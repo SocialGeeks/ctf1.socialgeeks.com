@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Web Training - SocialGeeks CTF 1.0 May 4, 2013"
+description: ""
+---
+{% include JB/setup %}
+
 # HTTP Intro
 
 ## Simple request/response client/server model  
